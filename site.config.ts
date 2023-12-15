@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '2ed13775bed0442e90d9c572c40ae676',
+  rootNotionPageId: '934f96906eae4158b6eec670e2e230ec',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Support',
-  domain: 'https://www.notion.so/Lucky-Ping-Pong-technical-support-2ed13775bed0442e90d9c572c40ae676',
+  domain: 'https://www.notion.so/Lucky-Turbo-Sphere-technical-support-934f96906eae4158b6eec670e2e230ec',
   author: 'Leon',
 
   // open graph metadata (optional)
